@@ -1,0 +1,146 @@
+body{
+    color: white;
+    background-color: black;
+}
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.gentium p{
+    font-size: 35px;
+    margin-top: -3px;
+}
+.nav-bar li{
+    display:inline-block;
+    list-style-type: none;
+    padding: 10px 12px;
+    font-size: 150%;  
+}
+#underline{
+    text-decoration: none;
+    border-bottom:3px solid rgb(243, 7, 86)
+}
+.line{
+    size: 3px;
+    border-color: rgb(243, 7, 86);
+    width: 6%;
+    float: left;
+}
+.second-div-container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    
+}
+.second-div p{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.button{
+    border-color: rgb(243, 7, 86);
+    background-color: black;
+    color: white;
+    padding: 12px 9px;
+}
+.image1{
+    width: 30%;
+    height: 36%;
+    margin-left: 40%;
+}
+.middle-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.future-vision{
+    background-color: rgb(243, 7, 86);
+    padding: 14px 14px;
+}
+.future-vision i{
+
+}
+.product-design{
+    background-color: rgb(54, 52, 52);
+    padding: 14px 14px;
+}
+.product-design i{
+    color: rgb(243, 7, 86);
+}
+.inovative-solutions{
+    background-color: rgb(54, 52, 52);
+    padding: 12px 14px;
+}
+.inovative-solutions i{
+    color: rgb(243, 7, 86);
+}
+.work-with{
+    color: rgb(243, 7, 86);
+}
+.service-big{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.arrow-div{
+    background-color: rgb(54, 52, 52);
+    /* padding: 12px 0px; */
+}
+.vl{
+    border-left: 3px solid rgb(243, 7, 86);
+    height : 45px;
+    margin-left: 50%;
+}
+.works-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image-holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.images{
+    height: 50%;
+    width: 90%;
+    border-radius: 10px;
+}
+.about-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.about-container p{
+    color: rgb(243, 7, 86);
+}
+.about-image-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image-big{
+    height: 80%;
+    width: 100%;
+    border-radius: 10px;
+}
+.image2{
+    height: 70%;
+    width: 90%;
+    border-radius: 10px;
+}
+.about-image-container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3%;
+}
+.image3-div{
+    margin-top: -10%;
+}
+.who-are-we{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
